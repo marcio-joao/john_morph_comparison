@@ -1,3 +1,5 @@
+# Author: Marcio Joao
+# Routine used to geometric morphometry analysis comparing J. lagostoma shape between dysconnected populations
 
 library(geomorph)
 
