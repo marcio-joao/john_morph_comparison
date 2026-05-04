@@ -1,6 +1,9 @@
 # Data and code for: Phenotypic similarity in insular disconnected populations
-Authors: Marcio João, Gustavo Mori, and Marcelo Pinheiro
 
+DOI: *https://doi.org/10.5281/zenodo.20025389*
+
+Authors: *Marcio João, Gustavo Mori, and Marcelo Pinheiro*
+        
 # Description
 
 This repository contains the data and scripts used to perform morphometric comparisons among Brazilian oceanic island populations of the endangered land crab *Johngarthia lagostoma*. The outcomes of this study are reported in the article:
